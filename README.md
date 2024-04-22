@@ -1,1 +1,5 @@
-# AmbiTRUS_framework
+# Technical Report 
+# AmbiTRUS: A Framework for Ambiguity Tracking and Resolution in User Stories
+
+Abstract:
+This report presents the technical intricacies underlying the development of AmbiTRUS (Ambiguity Tracking and Resolution for User Stories), a framework designed to address ambiguity issues within user stories. Drawing from the ambiguity classification framework proposed by Amna and Poels (2022), AmbiTRUS employs a systematic approach to identify and extract various manifestations of ambiguity across multiple linguistic levels. Through the investigation of 13 types of ambiguity problems, AmbiTRUS aims to mitigate potential issues in requirements quality, such as inconsistency, insufficiency, and duplication. Each ambiguity type is associated with a user story quality criterion, facilitating actionable insights for ambiguity resolution. This report elucidates the methodology employed in the framework's development, the refinement of its quality criteria, and practical implementation strategies for analyzing ambiguity in user stories.
